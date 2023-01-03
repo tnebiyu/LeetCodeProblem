@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780834f2-6916-426f-b0fe-cb29aa017370" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n-BasedIntegerRounding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodeArray/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodeArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodeArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodeArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodeArray/DecodeArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodeArray/out/production/DecodeArray/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecodeArray/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
