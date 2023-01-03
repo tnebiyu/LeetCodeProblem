@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780834f2-6916-426f-b0fe-cb29aa017370" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../DecodeArray/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DecodeArray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DecodeArray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DecodeArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DecodeArray/DecodeArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DecodeArray/out/production/DecodeArray/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DecodeArray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncodeArray/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncodeArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncodeArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncodeArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncodeArray/EncodeArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncodeArray/out/production/EncodeArray/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncodeArray/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
