@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="780834f2-6916-426f-b0fe-cb29aa017370" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../EncodeArray/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EncodeArray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EncodeArray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EncodeArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EncodeArray/EncodeArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EncodeArray/out/production/EncodeArray/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EncodeArray/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Easy/maxIceCream/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Easy/maxIceCream/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Easy/maxIceCream/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Easy/maxIceCream/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Easy/maxIceCream/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Easy/maxIceCream/maxIceCream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Easy/maxIceCream/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
