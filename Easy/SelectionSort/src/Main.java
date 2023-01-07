@@ -3,7 +3,7 @@ public class Main {
         int [] intArray = {12,2,1,53,23,22};
         for (int lastUnsortedArray = intArray.length-1; lastUnsortedArray>0; lastUnsortedArray--){
             int largest =0;
-            for (int i=1; i<intArray.length; i++ ){
+            for (int i=1; i<=lastUnsortedArray; i++ ){
                 if (intArray[i] > intArray[largest]){
                   largest = i;
                 }
@@ -18,7 +18,7 @@ public class Main {
 
     }
     public static void swap(int[] arrays, int i, int j){
-        if (arrays[i] == arrays[j])
+        if (i== j)
             return;
         if (arrays[i] > arrays[j]){
             int temp;
