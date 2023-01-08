@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         int[] arrays = {1,2,8,3,54,45,3};
@@ -10,7 +12,7 @@ public class Main {
 
         }
         for (int i=0; i<arrays.length; i++){
-            System.out.println("swapped array are " + arrays[i]);
+            System.out.println("swapped array are " + Arrays.toString(arrays));
         }
     }
     public static  void swap(int[] array, int i, int j){

@@ -10,7 +10,7 @@ public class Main {
         Arrays.sort(costs);
         int n = costs.length;
         int answer = 0;
-        while (answer < costs.length && costs[answer] < coins){
+        while (answer < costs.length && costs[answer] <= coins){
             coins -=costs[answer];
             answer++;
         }
