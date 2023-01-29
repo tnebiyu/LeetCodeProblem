@@ -10,9 +10,6 @@ public class Main {
         while (x !=0){
             reverse *=10;
             reverse  += x %10;
-
-
-
             x/=10;
         }
         if (orginal <0)
