@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0975805-b825-4329-9a55-988ab3b4f0a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Balanced.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Balanced/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Centered/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Centered/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Centered/.idea/vcs.xml" afterDir="false" />
@@ -19,14 +12,6 @@
       <change afterPath="$PROJECT_DIR$/../Centered/Centered.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Centered/out/production/Centered/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Centered/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimePrdouct/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimePrdouct/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimePrdouct/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimePrdouct/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimePrdouct/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimePrdouct/PrimePrdouct.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimePrdouct/out/production/PrimePrdouct/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PrimePrdouct/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
