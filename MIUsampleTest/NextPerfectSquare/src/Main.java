@@ -5,15 +5,9 @@ public class Main {
 
     }
     public static int isPerfectSquare(int num){
-    while (num >=0){
-        for (int i= 0; i<num; i++){
-            if (i*i ==num){
-                return num;
-            }
+int nextInt = (int) Math.floor(Math.sqrt(num))+1;
+        System.out.println(nextInt);
+return nextInt  * nextInt;
+    }
 
-        }
-        num++;
-    }
-    return 0;
-    }
   }
